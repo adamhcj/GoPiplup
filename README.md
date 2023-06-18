@@ -1,9 +1,9 @@
 # GoPiplup
-Events around SG. 
-Go backend container deployed via Azure Container Apps:
-https://pipcontainerapp.purpleflower-221d62dc.southeastasia.azurecontainerapps.io/
-Right now only 1 endpoint which is home page, which visits Gardens by the Bay website to scrape the recent events.
-Try clicking on the event, it brings you to Gardens by the Bay site!
+<p>Events around SG.</p> 
+<p>Go backend container deployed via Azure Container Apps:</p>
+<p>https://pipcontainerapp.purpleflower-221d62dc.southeastasia.azurecontainerapps.io/</p>
+<p>Right now only 1 endpoint which is home page, which visits Gardens by the Bay website to scrape the recent events.</p>
+<p>Try clicking on the event, it brings you to Gardens by the Bay site!</p>
 
 <h1> Overview </h1>
 <p> version 2 of my art </p>
