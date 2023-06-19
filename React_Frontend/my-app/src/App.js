@@ -11,6 +11,7 @@ function App() {
     <div>
       <div style={{'padding': '12px'}}>
         <h1>Welcome to GoPiplup</h1>
+        <h3>Where would you like to Go?</h3>
         <h4 style={{'margin-bottom':'0px'}}>Please select a place to view events:</h4>
       </div>
 
