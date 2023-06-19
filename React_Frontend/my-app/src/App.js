@@ -9,11 +9,9 @@ function App() {
 
   return (
     <div>
-      <div style={{'border' : '1px solid red'}}>
-        another div here
-        <p>test</p>
-        <p>test</p>
-        <p>test</p>
+      <div style={{'padding': '12px'}}>
+        <h1>Welcome to GoPiplup</h1>
+        <h4 style={{'margin-bottom':'0px'}}>Please select a place to view events:</h4>
       </div>
 
       <div className='select-place-div'>

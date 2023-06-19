@@ -244,6 +244,7 @@ func scrapeGBTB() {
 		matchcopy := match[0]
 		matchcopy = strings.Replace(matchcopy, `href="`, `href="` + baseURL, -1)
 		matchcopy = strings.Replace(matchcopy, `src="`, `src="` + baseURL, -1)
+        matchcopy = strings.Replace(matchcopy, `target="_self"`, `target="_blank"`, -1)
 
 		htmlString += matchcopy
 	}
