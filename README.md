@@ -1,9 +1,11 @@
 # GoPiplup
 <p>Events around SG.</p> 
-<p>Go backend container deployed via Azure Container Apps:</p>
-<p>https://pipcontainerapp.purpleflower-221d62dc.southeastasia.azurecontainerapps.io/</p>
-<p>Right now only 1 endpoint which is home page, which visits Gardens by the Bay website to scrape the recent events.</p>
-<p>Try clicking on the event, it brings you to Gardens by the Bay site!</p>
+<p>Frontend React App Deployed at: https://piplupowo.github.io/GoPiplup</p>
+
+<p>More Info:</p>
+<p>Go backend container (containing chrome driver for web scraping) published on docker hub and deployed via Azure Container Apps:</p>
+<p>https://pipcontainerapp.purpleflower-221d62dc.southeastasia.azurecontainerapps.io/gbtb</p>
+
 
 <h1> Overview </h1>
 <p> version 2 of my art </p>
