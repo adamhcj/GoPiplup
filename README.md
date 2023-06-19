@@ -1,4 +1,7 @@
-# GoPiplup
+# [GoPiplup](https://piplupowo.github.io/GoPiplup)
+
+![GoPiplupArt](https://github.com/piplupOwo/GoPiplup/assets/82926705/8b37dc1f-a2de-4a14-ba28-475e336ccd06)
+
 <p>Events around SG.</p> 
 <p>Frontend React App Deployed at: https://piplupowo.github.io/GoPiplup</p>
 <br/>
