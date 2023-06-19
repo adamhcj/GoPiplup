@@ -1,7 +1,14 @@
 # GoPiplup
 <p>Events around SG.</p> 
 <p>Frontend React App Deployed at: https://piplupowo.github.io/GoPiplup</p>
+<br/>
+<p>React frontend, Go backend.</p>
+<p>Golang backend to fetch and scrape events from selected websites like Gardens by the Bay and Nparks.</p>
+<p>May consider adding more beautiful sites in the future.</p>
+<br/>
 
+
+<br/>
 <p>More Info:</p>
 <p>Go backend container (containing chrome driver for web scraping) published on docker hub and deployed via Azure Container Apps:</p>
 <p>https://pipcontainerapp.purpleflower-221d62dc.southeastasia.azurecontainerapps.io/gbtb</p>
