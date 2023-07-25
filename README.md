@@ -3,7 +3,7 @@
 ![GoPiplupArt](https://github.com/piplupOwo/GoPiplup/assets/82926705/8b37dc1f-a2de-4a14-ba28-475e336ccd06)
 
 <p>Events around SG.</p> 
-<p>Frontend React App Deployed at: https://piplupowo.github.io/GoPiplup</p>
+<p>Frontend React App Deployed at: https://adamhcj.github.io/GoPiplup</p>
 <br/>
 <p>React frontend, Go backend.</p>
 <p>Golang backend to fetch and scrape events from selected websites like Gardens by the Bay and Nparks.</p>
